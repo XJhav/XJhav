@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
-- 🌱 I’m currently learning how to contribute on GitHub
-- 😄 Pronouns: He/Him
+- I am currently a freshman at Case Western Reserve University
+- I am studying Computer Science
